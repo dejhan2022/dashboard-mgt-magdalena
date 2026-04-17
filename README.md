@@ -1,0 +1,2 @@
+# dashboard-mgt-magdalena
+SEGUIMIENTO
